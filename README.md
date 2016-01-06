@@ -1,0 +1,1 @@
+# Aws Split Brain Resolver for Akka Cluster
